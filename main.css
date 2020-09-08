@@ -1,0 +1,21 @@
+﻿body{
+		background-image: url("freedom.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		
+}
+
+p.text {
+		text-align: center;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		font-family: "Lucida Console";
+		font-size: 60px;
+		
+}
+p.author {
+		text-align: center;
+		font-style: italic;
+		font-size: 25px;
+}
